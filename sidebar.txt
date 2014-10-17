@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[neo:home|Door43 (neo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-neo|d43-neo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-neo/archive/master.zip|d43-neo.zip]]
+
+**Recent Changes**
+{{changes>ns = neo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/neo|Ethnologue data]]
+
